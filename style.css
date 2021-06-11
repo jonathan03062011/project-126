@@ -10,7 +10,21 @@
 body{
     background-size: cover;
 }
-.song_button{
+.div_img{
+    width: 200px;
+    border-radius: 100px;
+}
+.div_h3{
+    margin: 15px;
+    font-size: 23px;
+}
+.div_speed{
+    float: left;
+}
+.div_volume{
+    float: right;
+}
+.play_button{
     width: 130px;
     font-size: 25px;
 }
